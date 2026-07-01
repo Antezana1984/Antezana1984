@@ -1,4 +1,4 @@
-
+![Header](image-1.png)
 
 Hi👋 My name is Cristian Antezana
 ======================================================
@@ -6,7 +6,7 @@ Hi👋 My name is Cristian Antezana
 Commercial Engineer
 -------------------
 
-![Header][C:\Users\Usuario\Downloads\banner.png]
+
 
 I'm a Commercial Engineering at UPLA (Chile) with a strong passion for data science and database management. My journey combines business acumen with technical skills in programming and data analysis, preparing me to bridge the gap between business needs and technical solutions.
 
