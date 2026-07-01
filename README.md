@@ -1,8 +1,12 @@
+
+
 Hi👋 My name is Cristian Antezana
 ======================================================
 
 Commercial Engineer
 -------------------
+
+![Header][C:\Users\Usuario\Downloads\banner.png]
 
 I'm a Commercial Engineering at UPLA (Chile) with a strong passion for data science and database management. My journey combines business acumen with technical skills in programming and data analysis, preparing me to bridge the gap between business needs and technical solutions.
 
@@ -19,9 +23,10 @@ I'm a Commercial Engineering at UPLA (Chile) with a strong passion for data scie
 
 <p align="left"> <a href="https://www.github.com/Antezana1984" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/CAntezana1984" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/Antezana1984" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/Antezana1984" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Antezana1984?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/CAntezana1984" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CAntezana1984?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/Antezana1984?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 
+
+
+[C:\Users\Usuario\Downloads\banner.png]: C:\Users\Usuario\Downloads\banner.Ppng
